@@ -18,7 +18,6 @@ It is a desktop application built using **Java Swing** for the user interface an
 
 ### Customer Management
 - Add and manage customer information.
-- View customer rental history.
 
 ### Rent Car
 - Assign available cars to customers for rental.
