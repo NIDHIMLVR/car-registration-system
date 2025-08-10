@@ -28,10 +28,18 @@ It is a desktop application built using **Java Swing** for the user interface an
 - Update availability status.
 
 ### Logout
-- Securely log out of the system.  
+- Securely log out of the system.
 
 ## Technologies Used
 - **Java Swing** – GUI development
 - **MySQL** – Database
 - **JDBC** – Java Database Connectivity
 - **NetBeans IDE** – Development environment
+
+ ## Screenshots 
+ 
+ <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/fd2cc561-6237-4e38-b305-b36e867ec15f" />
+
+ <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/99eb2a1b-75c5-4d82-b8a0-cee69aac009e" />
+
+
